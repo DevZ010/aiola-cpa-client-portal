@@ -1,0 +1,6 @@
+{
+  "name": "Aiola CPA Client Portal",
+  "description": "A secure client intake and document management portal for tax professionals with Python and Postgres support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
